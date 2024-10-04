@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting", "UnitTesting\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingLib", "TestingLib\TestingLib.csproj", "{E2FF35D4-3B82-45E0-BAB8-DE39777C4D53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealizationApp", "RealizationApp\RealizationApp.csproj", "{6301EAB5-B771-4477-9242-84D8C2944114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealizationApp", "RealizationApp\RealizationApp.csproj", "{6301EAB5-B771-4477-9242-84D8C2944114}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
